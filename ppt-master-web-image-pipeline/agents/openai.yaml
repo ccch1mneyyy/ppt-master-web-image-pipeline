@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Master Web Images"
+  short_description: "Run PPT Master Step 5 through logged-in image websites."
+  default_prompt: "Use $ppt-master-web-image-pipeline to complete the pending image rows in this PPT Master project through Gemini, Nano Banana, ChatGPT, Grok, or Doubao web UIs."
