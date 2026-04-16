@@ -1,5 +1,7 @@
 # PPT Master Web Image Pipeline
 
+English | [中文](./README_CN.md)
+
 `ppt-master-web-image-pipeline` is a Codex skill that bridges PPT Master's
 Step 5 image generation workflow to logged-in web image tools such as Gemini,
 Nano Banana, ChatGPT, Grok, and Doubao.
